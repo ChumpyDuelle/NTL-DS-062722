@@ -1,6 +1,8 @@
 Let's go over some common git commands!
 ---------------------------------------
 
+IAN'S VERSION IS THE BEST VERSION
+
 1. Find a repo you're interested in having your own version of.
 
 2. Fork it (click the button) to create in the cloud a new copy of the repo.
