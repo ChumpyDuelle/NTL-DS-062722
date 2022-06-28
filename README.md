@@ -1,5 +1,7 @@
 # NTL-DS-062722's Cohort Repository!
 
+NO, GREG, IAN'S VERSION IS THE GREATEST AND BEST VERSION IN THE WORLD
+
 A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohort.
 
 ![uh-oh](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
